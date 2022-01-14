@@ -1,4 +1,4 @@
-# Furniture_Shop
+# Furniture_Shop Laravel 8.49 PHP 8.0.8
 1) Файл .env.example переименовать в .env
 2) composer install / composer update
 3) artisan key:generate
