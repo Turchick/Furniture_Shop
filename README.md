@@ -9,7 +9,7 @@
 7) artisan serve
 # Скриншот главной страницы
 ![image](https://user-images.githubusercontent.com/56910528/149516869-3da0896e-9842-42a5-a207-275767a0ede5.png)
-# Aдминки
+# Aдминка
 Чтобы пройти в админ панель добавить в ссылку /login, можно зарегестрироваться, либо использовать 
 login: admin@admin.ru 
 pass: Artur19A11
