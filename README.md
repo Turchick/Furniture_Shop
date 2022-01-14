@@ -13,8 +13,10 @@
 ![image](https://user-images.githubusercontent.com/56910528/149516869-3da0896e-9842-42a5-a207-275767a0ede5.png)
 # Aдминка
 Что бы пройти в админ панель добавить в ссылку /login, можно зарегистрироваться, либо использовать 
+
 login: admin@admin.ru 
 pass: Artur19A11
+
 Далее прописать /admin/hall откроется админ панель
 
 ![image](https://user-images.githubusercontent.com/56910528/149518052-2f8dedbf-ea85-4830-8825-670c36e519cc.png)
