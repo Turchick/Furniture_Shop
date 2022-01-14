@@ -1,0 +1,113 @@
+.kitchen-banner {
+    background-image: url('/img/kitchen.jpg');
+}
+.kitchen-bottom-block {
+    background-image: url('/img/kitchen2.jpg');
+}
+.hall-banner {
+    background-image: url('/img/hall.jpg');
+}
+.hall-bottom-block {
+    background-image: url('/img/hall2.jpg');
+}
+.commercial-banner {
+    background-image: url('/img/commercial.jpg');
+}
+.commercial-bottom-block {
+    background-image: url('/img/commercial2.jpg');
+}
+.wardrobe-banner {
+    background-image: url('/img/wardrobe.jpg');
+}
+.wardrobe-bottom-block {
+    background-image: url('/img/wardrobe2.jpg');
+}
+.children-banner {
+    background-image: url('/img/children.jpg');
+}
+.children-bottom-block {
+    background-image: url('/img/children2.jpg');
+}
+.information-block {
+    background-image: url('/img/cat-back.jpg');
+}
+section.information-block img {
+    max-width: 10em;
+}
+.information-block .info-block.block-5:before {
+    background: #FFB273;
+    opacity: .6;
+}
+.information-block .info-block:hover:before {
+    opacity: 0.1;
+}
+section.information-block a.info-block {
+    padding-top: 7rem !important;
+    padding-bottom: 7rem !important;
+}
+
+section.steps-block {
+    font-size: 1.1rem;
+}
+
+/* Header */
+.nav.navbar-nav .btn {
+    min-width: 11rem;
+}
+a.header-logo {
+    color: white;
+    font-size: 1.6em !important;
+}
+.nav.navbar-nav li.mobile-phone {
+    display: none !important;
+}
+.nav.navbar-nav li.mobile-phone-icons {
+    display: none !important;
+}
+@media only screen and (max-width: 991px) {
+    .nav.navbar-nav a.btn {
+        margin: 1.5rem 0;
+    }
+    .nav.navbar-nav li.mobile-phone {
+        display: flex !important;
+    }
+    .nav.navbar-nav li.mobile-phone-icons {
+        display: flex !important;
+        font-size: 1.7rem;
+    }
+}
+
+/* Footer */
+.footer-logo {
+    color: white;
+    font-size: 1.6em !important;
+}
+
+/* Gallery Overlay */
+figure.caption-hover-full {
+    position: relative;
+}
+.overlay-gallery {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    width: 100%;
+    color: white;
+    font-size: 1.2rem;
+    padding: 0.2rem;
+    text-align: center;
+    opacity: 0;
+    transition: .5s ease;
+}
+figure.caption-hover-full .overlay-gallery a {
+    color: white !important;
+}
+figure.caption-hover-full:hover .overlay-gallery {
+    opacity: 1;
+}
+@media only screen and (max-width: 991px) {
+    .overlay-gallery {
+        opacity: 1;
+    }
+}
