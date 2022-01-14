@@ -19,4 +19,4 @@ pass: Artur19A11
 
 Далее прописать /admin/hall откроется админ панель
 
-![image](https://user-images.githubusercontent.com/56910528/149518052-2f8dedbf-ea85-4830-8825-670c36e519cc.png)
+![image](https://user-images.githubusercontent.com/56910528/149519532-df01dc9d-c3f2-4500-a12b-464b71acde85.png)
