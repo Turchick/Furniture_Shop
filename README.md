@@ -1,6 +1,6 @@
 # Furniture_Shop
 1) Файл .env.example переименовать в .env
-2) composer install
+2) composer install / composer update
 3) artisan key:generate
 4) создать базу данных furniture
 5) в phpmyadmin в базе furniture нажать Импорт и выбрать файл furniture.sql
