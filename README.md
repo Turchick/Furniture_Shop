@@ -4,8 +4,14 @@
 3) artisan key:generate
 4) созадать базу данных furniture
 5) в phpmyadmin в базе furniture нажать Импорт и выбрать файл furniture.sql
-    ![image](https://user-images.githubusercontent.com/56910528/149516554-f1bb6a0a-2df6-4b0e-9c5c-9a3941d1d534.png)
+    ![image](https://user-images.githubusercontent.com/56910528/149516847-66b3280d-3469-4c90-a028-f874f9359da6.png)
 6) artisan migrate
 7) artisan serve
 # Скриншот главной страницы
-![Image alt](https://github.com/Turchick/firstproject.local/raw/master/site.png)
+![image](https://user-images.githubusercontent.com/56910528/149516869-3da0896e-9842-42a5-a207-275767a0ede5.png)
+# Aдминки
+Чтобы пройти в админ панель добавить в ссылку /login, можно зарегестрироваться, либо использовать 
+login: admin@admin.ru 
+pass: Artur19A11
+Далее прописать /admin/hall откроется админ панель
+![image](https://user-images.githubusercontent.com/56910528/149518052-2f8dedbf-ea85-4830-8825-670c36e519cc.png)
