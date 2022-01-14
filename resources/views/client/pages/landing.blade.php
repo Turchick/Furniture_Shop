@@ -15,7 +15,7 @@
                                 Индивидуальность. Сервис. Качество.
                             </div>
                             <div class="slider-main-title text-white tp-caption tp-resizeme rs-parallaxlevel-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','middle','middle']" data-voffset="['250','150','50','50']" data-width="['1200','960','720','540']" data-textalign="center" data-fontsize="['60','40','30','40']" data-fontweight="900" data-letterspacing="['25','10','5','0']" data-lineheight="['184','100','72','40']" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-paddingright="[25,25,25,25]" data-paddingleft="[25,25,25,25]">
-                                Мебельный мастер
+                                Мебель МИЛАНА
                             </div>
                             <div class="slider-text text-white tp-caption tp-resizeme rs-parallaxlevel-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','middle','middle']" data-voffset="['450','230','130','110']" data-width="['1140','960','768','480']" data-textalign="center" data-fontsize="['35','28','20','20']" data-lineheight="['30','30','22','22']" data-fontweight="400" data-height="none" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="z:0;rX:0deg;rY:0;rZ:0;sX:1.5;sY:1.5;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:0px;" data-mask_out="x:inherit;y:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" data-paddingright="[25,25,25,25]" data-paddingleft="[25,25,25,25]">
                                 Создаю пространство мечты для Жизни и Бизнеса!
@@ -31,7 +31,7 @@
             <section class="content-block">
                 <div class="container">
                     <div class="block-heading text-center">
-                        <h2 class="block-main-heading text-black">Мебельный мастер</h2>
+                        <h2 class="block-main-heading text-black">Мебель МИЛАНА</h2>
                     </div>
                     <div class="description text-center container-md">
                         <p>Проектирую и изготавливаю корпусную мебель по индивидуальным заказам для дома, офиса и
@@ -259,15 +259,14 @@
                                     <div class="info-slot mb-2">
                                         <div class="icon"><span class="custom-icon-map-marker"></span></div>
                                         <div class="text">
-                                            <address>Киев, Украина</address>
+                                            <address>Ульяновск, Россия</address>
                                         </div>
                                     </div>
                                     <div class="info-slot mb-2">
                                         <div class="icon"><span class="custom-icon-headset"></span></div>
                                         <div class="text">
                                             <ul class="content-list contact-list">
-                                                <li><a href="tel:+380638443748"> +38 (063) 844 37 48</a></li>
-                                                <li><a href="tel:+380986035327"> +38 (098) 603 53 27</a></li>
+                                                <li><a href="tel:+7 (929) 795-46-10"> +7 (929) 795-46-10</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -277,8 +276,7 @@
                     </div>
             </section>
             <div class="map-holder embed-responsive-21by9">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d325518.68780316407!2d30.252511957059642!3d50.4016990487754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cf4ee15a4505%3A0x764931d2170146fe!2z0JrQuNC10LIsIDAyMDAw!5e0!3m2!1sru!2sua!4v1616951269047!5m2!1sru!2sua" height="450" style="border:0;" loading="lazy"></iframe>
-            </div>
+                <iframe src="https://yandex.ru/map-widget/v1/?z=12&ol=biz&oid=66138808426" height="450" frameborder="0"></iframe>            </div>
             <aside class="content-block">
                 <div class="container">
                     <div class="logo-container">

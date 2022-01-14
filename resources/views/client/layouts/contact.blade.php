@@ -35,14 +35,14 @@
                         <div class="info-slot mb-2">
                             <div class="icon"><span class="custom-icon-map-marker"></span></div>
                             <div class="text">
-                                <address>Киев, Украина</address>
+                                <address>Ульяновск, Россия</address>
                             </div>
                         </div>
                         <div class="info-slot mb-2">
                             <div class="icon"><span class="custom-icon-headset"></span></div>
                             <div class="text">
                                 <ul class="content-list contact-list">
-                                    <li><a href="tel:02078777777">(020) 7877 7777</a></li>
+                                    <li><a href="tel:79297954618">7 (929) 795-46-10</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -50,7 +50,7 @@
                             <div class="icon"><span class="custom-icon-message"></span></div>
                             <div class="text">
                                 <ul class="content-list contact-list">
-                                    <li><a href="mailto:help@roxine-online.com">help@roxine-online.com</a></li>
+                                    <li><a href="mailto:artur.minacheff@yandex.ru">artur.minacheff@yandex.ru</a></li>
                                 </ul>
                             </div>
                         </div>

@@ -8,12 +8,12 @@
                             <ul class="i-list i-list-i-block i-list-i-block-sm i-list-i-block-no-hover pad-0-sm margin-bottom-0 float-left text-center">
                                 <li>
                                     <div class="dropdown mini-nav">
-                                        <a href="tel:+380638443748" class="nav-link"><span class="custom-icon-phone-ring"></span> +38 (063) 844 37 48</a>
+                                        <a href="tel:+79297954618" class="nav-link"><span class="custom-icon-phone-ring"></span> 7 (929) 795-46-10</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="dropdown mini-nav">
-                                        <a href="tel:+380986035327" class="nav-link">+38 (098) 603 53 27</a>
+                                        <a href="tel:+79297954618" class="nav-link">7 (929) 795-46-10</a>
                                     </div>
                                 </li>
                             </ul>
@@ -22,12 +22,7 @@
                             <ul class="i-list i-list-i-block i-list-i-block-sm i-list-i-block-no-hover pad-0-sm margin-bottom-0 float-right">
                                 <li>
                                     <div class="dropdown mini-nav mini-nav-no-bg-hover">
-                                        <a target="_blank" href="https://www.facebook.com/Mebelnyymaster"><span class="icon-facebook"></span></a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="dropdown mini-nav mini-nav-no-bg-hover">
-                                        <a target="_blank" href="https://www.instagram.com/mebelnyymaster"><span class="icon-instagram"></span></a>
+                                        <a target="_blank" href="https://www.instagram.com/mebelmilana.rf"><span class="icon-instagram"></span></a>
                                     </div>
                                 </li>
                             </ul>
@@ -41,7 +36,7 @@
                 <button type="button" class="navbar-toggler navbar-toggler-left" data-toggle="collapse" data-target="#mega-menu">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="navbar-brand mr-auto m-sm-auto header-logo" href="{{ route('landing') }}"> Мебельный мастер </a>
+                <a class="navbar-brand mr-auto m-sm-auto header-logo" href="{{ route('landing') }}"> Мебель МИЛАНА </a>
                 <div class="collapse navbar-collapse flex-row-reverse" id="mega-menu">
                     <ul class="nav navbar-nav">
                         <li>
@@ -63,14 +58,10 @@
                             <a href="{{ route('landing') }}#contact-form" data-title="Контакты" class="btn btn-tertiary btn-small-font btn-secondary has-radius-huge"> Перезвонить </a>
                         </li>
                         <li class="d-flex align-items-center justify-content-center mobile-phone">
-                            <a href="tel:+380638443748" class="nav-link"><span class="custom-icon-phone-ring"></span> +38 (063) 844 37 48</a>
-                        </li>
-                        <li class="d-flex align-items-center justify-content-center mobile-phone">
-                            <a href="tel:+380986035327" class="nav-link"><span class="custom-icon-phone-ring"></span> +38 (098) 603 53 27</a>
+                            <a href="tel:+79297954618" class="nav-link"><span class="custom-icon-phone-ring"></span> 7 (929) 795-46-10</a>
                         </li>
                         <li class="d-flex align-items-center justify-content-around mobile-phone-icons">
-                            <a target="_blank" href="https://www.facebook.com/Mebelnyymaster"><span class="icon-facebook"></span></a>
-                            <a target="_blank" href="https://www.instagram.com/mebelnyymaster"><span class="icon-instagram"></span></a>
+                            <a target="_blank" href="https://www.instagram.com/mebelmilana.rf"><span class="icon-instagram"></span></a>
                         </li>
                     </ul>
                 </div>

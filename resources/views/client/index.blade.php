@@ -9,37 +9,37 @@
         </url>
     @endforeach
     <url>
-        <loc>https://mebelnyymaster.com.ua/hall</loc>
+        <loc>https://mebelmilana.ru/hall</loc>
         <lastmod>{{ now()->tz('GMT')->toAtomString() }}</lastmod>
         <changefreq>always</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://mebelnyymaster.com.ua/commercial</loc>
+        <loc>https://mebelmilana.ru/commercial</loc>
         <lastmod>{{ now()->tz('GMT')->toAtomString() }}</lastmod>
         <changefreq>always</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://mebelnyymaster.com.ua/wardrobe</loc>
+        <loc>https://mebelmilana.ru/wardrobe</loc>
         <lastmod>{{ now()->tz('GMT')->toAtomString() }}</lastmod>
         <changefreq>always</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://mebelnyymaster.com.ua/children</loc>
+        <loc>https://mebelmilana.ru/children</loc>
         <lastmod>{{ now()->tz('GMT')->toAtomString() }}</lastmod>
         <changefreq>always</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://mebelnyymaster.com.ua/kitchen</loc>
+        <loc>https://mebelmilana.ru/kitchen</loc>
         <lastmod>{{ now()->tz('GMT')->toAtomString() }}</lastmod>
         <changefreq>always</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://mebelnyymaster.com.ua/</loc>
+        <loc>https://mebelmilana.ru/</loc>
         <lastmod>{{ now()->tz('GMT')->toAtomString() }}</lastmod>
         <changefreq>always</changefreq>
         <priority>1.0</priority>

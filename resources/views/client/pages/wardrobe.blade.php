@@ -13,8 +13,8 @@
        "position": 1,
        "item":
        {
-        "@id": "https://mebelnyymaster.com.ua/",
-        "name": "Мебельный мастер"
+        "@id": "https://mebelmilana.ru/",
+        "name": "Мебель МИЛАНА"
         }
       },
       {
@@ -22,7 +22,7 @@
       "position": 2,
       "item":
        {
-         "@id": "https://mebelnyymaster.com.ua/wardrobe",
+         "@id": "https://mebelmilana.ru/wardrobe",
          "name": "Гардеробы и тумбы"
        }
       }

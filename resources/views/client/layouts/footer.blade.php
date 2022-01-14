@@ -25,7 +25,6 @@
                 </div>
                 <div class="col-md-3 text-right">
                     <ul class="social-network with-text">
-                        <li><a target="_blank" href="https://www.facebook.com/Mebelnyymaster"><span class="icon-facebook"></span></a></li>
                         <li><a target="_blank" href="https://www.instagram.com/mebelnyymaster"><span class="icon-instagram"></span> </a></li>
                     </ul>
                 </div>
@@ -34,7 +33,7 @@
     </div>
     <div class="footer-bottom text-center">
         <div class="container">
-            <p>© Copyright <b>Мебельный Мастер {{ date('Y') }}</b>. All Rights Reserved - Built by Me </p>
+            <p>© Copyright <b>Мебель Милана {{ date('Y') }}</b>. </p>
         </div>
     </div>
 </footer>

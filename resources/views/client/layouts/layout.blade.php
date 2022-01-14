@@ -4,8 +4,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-        <title>{{ $metaData['title'] ?? 'Мебельный мастер' }}</title>
-        <meta name="description" content="{{ $metaData['description'] ?? 'Проектирую и изготавливаю корпусную мебель по индивидуальным заказам для дома, офиса и торговых точек. Превращаю Ваши идеи в реальность, от эскиза до результата. Способствую созданию комфорта, уюта и максимального удобства для Вашего Дома и Бизнеса!' }}">
+        <title>{{ $metaData['title'] ?? 'Мебель МИЛАНА' }}</title>
+        <meta name="description" content="{{ $metaData['description'] ?? 'Проектириуем и изготавливаем корпусную мебель по индивидуальным заказам для дома, офиса и торговых точек. Превращаю Ваши идеи в реальность, от эскиза до результата. Способствую созданию комфорта, уюта и максимального удобства для Вашего Дома и Бизнеса!' }}">
         <meta name="keywords" content="{{ $metaData['keywords'] ?? '' }}">
         <meta name="robots" content="index, follow">
         <link rel="icon" href="{{ asset('img/icons/wardrobe2.ico') }}" type="image/icon type">
@@ -45,15 +45,15 @@
          {
              "@context": "https://schema.org",
              "@type": "Organization",
-             "name": "Мебельный Мастер",
-             "legalName": "Мебельный Мастер",
-             "url": "https://mebelnyymaster.com.ua/",
+             "name": "Мебель МИЛАНА",
+             "legalName": "Мебель МИЛАНА",
+             "url": "https://mebelmilana.ru/",
              "description": "Проектирую и изготавливаю корпусную мебель по индивидуальным заказам для дома, офиса и торговых точек. Превращаю Ваши идеи в реальность, от эскиза до результата. Способствую созданию комфорта, уюта и максимального удобства для Вашего Дома и Бизнеса!",
              "foundingDate": "2017",
              "contactPoint": {
                  "@type": "ContactPoint",
                  "contactType": "Customer support",
-                 "telephone" : "+380638443748"
+                 "telephone" : "+79297954610"
                 }
          }
         </script>

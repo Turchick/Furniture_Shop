@@ -13,7 +13,7 @@
        "position": 1,
        "item":
        {
-        "@id": "https://mebelnyymaster.com.ua/",
+        "@id": "https://mebelmilana.ru/",
         "name": "Мебельный мастер"
         }
       },
@@ -22,7 +22,7 @@
       "position": 2,
       "item":
        {
-         "@id": "https://mebelnyymaster.com.ua/children",
+         "@id": "https://mebelmilana.ru/children",
          "name": "Детская мебель"
        }
       }
